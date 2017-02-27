@@ -1,0 +1,26 @@
+{
+  "name": "blackhole",
+  "version": "1.0.0",
+  "description": "Un script qui télécharge les données d'un site pour les sauvegarder",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidFyon/blackhole.git"
+  },
+  "keywords": [
+    "blackhole",
+    "download"
+  ],
+  "author": "David FYON",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidFyon/blackhole/issues"
+  },
+  "homepage": "https://github.com/DavidFyon/blackhole#readme",
+  "dependencies": {
+    "async-dfyon": "^1.0.0"
+  }
+}
